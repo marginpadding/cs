@@ -1,0 +1,7 @@
+C:\Users\kuzmi\source\repos\Devider\bin\Debug\Devider.exe.config
+C:\Users\kuzmi\source\repos\Devider\bin\Debug\Devider.exe
+C:\Users\kuzmi\source\repos\Devider\bin\Debug\Devider.pdb
+C:\Users\kuzmi\source\repos\Devider\obj\Debug\Devider.csprojResolveAssemblyReference.cache
+C:\Users\kuzmi\source\repos\Devider\obj\Debug\Devider.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\source\repos\Devider\obj\Debug\Devider.exe
+C:\Users\kuzmi\source\repos\Devider\obj\Debug\Devider.pdb
